@@ -1,0 +1,27 @@
+{
+  "name": "json-to-excel",
+  "version": "1.0.0",
+  "description": "json to excel for download",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brainqi1991/json-to-excel.git"
+  },
+  "keywords": [
+    "json",
+    "excel",
+    "nodejs"
+  ],
+  "author": "brainqi@outlook.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brainqi1991/json-to-excel/issues"
+  },
+  "homepage": "https://github.com/brainqi1991/json-to-excel#readme",
+  "dependencies": {
+    "excel-export": "^0.5.1"
+  }
+}
